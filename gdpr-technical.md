@@ -130,9 +130,9 @@ Data entry control
 
 ### Agreement or contract control
 
-- Denali Golden Core LTD employees are regularly instructed in data protection law and are familiar with the procedural instructions and user guidelines for data processing on behalf of the Client also with regard to the Client’s right of instruction. The General Terms and Conditions contain detailed information on the type and scope of the commissioned data processing and use of the Client’s personal data.
+- Denali Limited employees are regularly instructed in data protection law and are familiar with the procedural instructions and user guidelines for data processing on behalf of the Client also with regard to the Client’s right of instruction. The General Terms and Conditions contain detailed information on the type and scope of the commissioned data processing and use of the Client’s personal data.
 - The General Terms and Conditions contain detailed information about the purpose limitation of Client’s personal data.
-- Denali Golden Core LTD has appointed a company Data Protection Officer and an Information Security Officer. The data protection organization and the information security management systems integrate both officers into the relevant operational procedures.
+- Denali Limited has appointed a company Data Protection Officer and an Information Security Officer. The data protection organization and the information security management systems integrate both officers into the relevant operational procedures.
 GDPR
 
  attachments

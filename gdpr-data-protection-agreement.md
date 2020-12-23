@@ -9,7 +9,7 @@
 
  and
 
- DENALI GOLDEN CORE LTD, LONDON, W1B 3HH, UK
+ DENALI limited, Msida, MSD2270, Malta
  – the Processor – hereafter named the “Supplier” –
 
  
@@ -55,7 +55,7 @@ In addition to complying with the provisions of this agreement, the Supplier sha
 
 6. Subcontracts
 
-For the purposes of this Agreement, subcontracting relationships are defined as those services which relate directly to the provision of the principal commission. This does not include ancillary services which the Supplier uses, e.g. telecommunications services; postal/ transport services; maintenance and user support services; as well as other measures to ensure the confidentiality, availability, integrity and resilience of the hardware and software of data processing systems. However, the Supplier is obligated to make appropriate and legally binding contractual arrangements and implement appropriate inspection measures to guarantee data protection and data security of the Client’s data, even in the case of outsourced ancillary services.  The Client thereby accepts the Supplier’s subcontractor. A product-specific list of the subcontractors operating for Denali Golden Core LTD can be found at: [Subcontractors](gdpr-subcontractors.md)
+For the purposes of this Agreement, subcontracting relationships are defined as those services which relate directly to the provision of the principal commission. This does not include ancillary services which the Supplier uses, e.g. telecommunications services; postal/ transport services; maintenance and user support services; as well as other measures to ensure the confidentiality, availability, integrity and resilience of the hardware and software of data processing systems. However, the Supplier is obligated to make appropriate and legally binding contractual arrangements and implement appropriate inspection measures to guarantee data protection and data security of the Client’s data, even in the case of outsourced ancillary services.  The Client thereby accepts the Supplier’s subcontractor. A product-specific list of the subcontractors operating for Denali Limited can be found at: [Subcontractors](gdpr-subcontractors.md)
 
 7. The Client’s inspection rights
 
@@ -285,9 +285,9 @@ For the purposes of this Agreement, subcontracting relationships are defined as 
 
 #### Agreement or contract control
 
- - DENALI Golden Core LTD employees are regularly instructed in data protection law and are familiar with the procedural instructions and user guidelines for data processing on behalf of the Client also with regard to the Client’s right of instruction. The General Terms and Conditions contain detailed information on the type and scope of the commissioned data processing and use of the Client’s personal data.
+ - DENALI Limited employees are regularly instructed in data protection law and are familiar with the procedural instructions and user guidelines for data processing on behalf of the Client also with regard to the Client’s right of instruction. The General Terms and Conditions contain detailed information on the type and scope of the commissioned data processing and use of the Client’s personal data.
 
  - The General Terms and Conditions contain detailed information about the purpose limitation of Client’s personal data.
 
- - DENALI Golden Core LTD has appointed a company Data Protection Officer and an Information Security Officer. The data protection organization and the information security management systems integrate both officers into the relevant operational procedures.
+ - DENALI Limited has appointed a company Data Protection Officer and an Information Security Officer. The data protection organization and the information security management systems integrate both officers into the relevant operational procedures.
 
