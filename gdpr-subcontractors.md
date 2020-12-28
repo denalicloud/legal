@@ -6,7 +6,7 @@
 
 ### 1. In the case of network planning and engineering consulting
 
- – Denali Golden Core Limited, London, W1B 3HH, UK
+ – Denali Golden Core Limited, London, W1B 3HH, Great Britain
 
 ### 2. In case of IaaS resources platform, located in Germany
 

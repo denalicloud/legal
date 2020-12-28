@@ -9,7 +9,7 @@
 
  and
 
- DENALI limited, Msida, MSD2270, Malta
+ DENALI limited, Triq Calleja, Swatar, Msida, MSD2270, Malta
  – the Processor – hereafter named the “Supplier” –
 
  
@@ -119,7 +119,7 @@ For the purposes of this Agreement, subcontracting relationships are defined as 
 
 11.4. Place of jurisdiction
 
- - The parties agree that the place of jurisdiction shall be the location of the court responsible for London.
+ - The parties agree that the place of jurisdiction shall be the location of the court responsible for Msida MSD2270, Malta.
 
  - [Appendix 2](appendix-2.md) of the Agreement Pursuant to Art. 28 GDPR: Technical and Organizational Measures in Accordance with Art. 32 GDPR and Amendments
 
