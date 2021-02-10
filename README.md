@@ -5,4 +5,5 @@
 - [GDPR data protection agreement](gdpr-data-protection-agreement.md)
 - [Terms of service](TOS.md)
 - [Information commissioner's office's registration](RegistrationCertificate.pdf)
+- [Renewable energy used](environment.md)
 
