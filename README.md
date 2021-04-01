@@ -7,4 +7,5 @@
 - [Backup policy](backup-policy.md)
 - [Information commissioner's office's registration](RegistrationCertificate.pdf)
 - [Renewable energy used](environment.md)
+- [Uptime policy](uptime.md)
 
