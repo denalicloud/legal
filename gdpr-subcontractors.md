@@ -4,19 +4,15 @@
 
 ## The following are used as approved subcontractors
 
-### 1. In the case of network planning and engineering consulting
-
- – Denali Golden Core Limited, London, W1B 3HH, Great Britain
-
-### 2. In case of IaaS resources platform, located in Germany
+### 1. In case of IaaS resources platform, located in Germany
 
  – Google Limited, Dublin, Ireland
 
-### 3. In case of IaaS resources, located in Switzerland
+### 2. In case of IaaS resources, located in Switzerland
 
  – Tritema SA
 
-### 4. In case of Cryptography and security consulting
+### 3. In case of Cryptography and security consulting
 
- - Denali Sàrl, Neuchâtel, 2000, Switzerland
+ - Denali Sàrl, La Chaux-de-Fonds, 2300, Switzerland
 
