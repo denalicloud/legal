@@ -9,7 +9,7 @@
 
  and
 
- DENALI limited, Triq Calleja, Swatar, Msida, MSD2270, Malta
+ DENALI Pro S.A., Al Paltan, 6535 Roveredo, Switzerland
  – the Processor – hereafter named the “Supplier” –
 
  
@@ -37,7 +37,7 @@ The object, nature and purpose of any possible collection, processing, or use of
 
 In addition to complying with the provisions of this agreement, the Supplier shall comply with statutory obligations in accordance with Articles 28 to 33 GDPR; in this respect, the Supplier shall particularly ensure compliance with the following requirements:
 
-   - Dr. Massimo S. M u sumeci, physicist, Head of Data Protection (+44 (0)20 369 549 05, data- protection (at) denali.eu) is appointed to the role of Data Protection Officer by the Supplier. The Client shall be immediately notified of any change of the Data Protection Officer. The Data Protection Officer’s current contact details are easily accessible on the Supplier’s website.
+   - Dr. Massimo S. M u sumeci, physicist, Head of Data Protection (+41 (0)91 2330914, data- protection (at) denali.eu) is appointed to the role of Data Protection Officer by the Supplier. The Client shall be immediately notified of any change of the Data Protection Officer. The Data Protection Officer’s current contact details are easily accessible on the Supplier’s website.
 
    - Confidentiality in accordance with Art. 28 Para. 3 Sent. 2 Clause b, Art. 29 and Art. 32 Para. 4 GDPR. The Supplier entrusts only such employees with the data processing defined in this agreement who have been bound to confidentiality and have previously been familiarized with the data protection provisions relevant to their work. The Supplier and any person acting under its authority who has access to personal data may only process that data in accordance with the instructions of the Client (which includes the powers granted in this Agreement) unless otherwise required to do so by law.
 

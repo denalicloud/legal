@@ -8,11 +8,7 @@
 
  – Google Limited, Dublin, Ireland
 
-### 2. In case of IaaS resources, located in Switzerland
-
- – Tritema SA
-
-### 3. In case of Cryptography and security consulting
+### 2. In case of Cryptography and security consulting
 
  - Denali Sàrl, La Chaux-de-Fonds, 2300, Switzerland
 
