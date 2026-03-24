@@ -16,36 +16,31 @@ DENALI Pro S.A. (Denali from now on) is an Internet Service Provider that manage
 Client is responsible to keep clean the resources at Denali from any malicious code, virus, trojan or backdoor and immediately check and resolve any issue eventually caused by software, sites,etc in his/her area. Shall we detect an abusive use of our services, the offending account will be immediately suspended until a compliant usage will be restored. Shall the abuse is serious with Law infringement the account will be definitively blocked and any connected resource blocked.
 Abuse notification procedure
 Important abuses we should get aware of, will be prosecuted. Clients are also asked to notify us whenever they get aware of abuses. Clients can do that by sending an email to tech (at) denali.eu or opening a support ticket in clients’ area.
-For the client it is mandatory to comply with all the rules included in this page and in attached documents and links. Should any abuse detected, due either to this TOS or to any Law, the offending account will be immediately locked without further notice. The setup of services is suggested to persons with good skills. In case of technical problems on the purchased services, the client must notify immediately the issue to Denali staff by technical ticket to be open in personal client’s area on Denali’s website. Any malfunction must be notified when it is experienced and not later. We won’t accept notices that are not fully described. Also we dont give assistance on technical problems which may arise from misconfiguration or from uncorrect use of services or from client’s software bugs. In addition we give no assistance whose purpose is just learning except when this is part of the service itself.
+For the client it is mandatory to comply with all the rules included in this page and in attached documents and links. Should any abuse detected, due either to this TOS or to any Law, the offending account will be immediately locked without further notice. The setup of services is suggested to persons with good skills. In case of technical problems on the purchased services, the client must notify immediately the issue to Denali staff by technical ticket to be open in personal client’s area on Denali’s website. Any malfunction must be notified when it is experienced and not later. We won’t accept notices that are not fully described. Also we dont give assistance on technical problems which may arise from misconfiguration or from uncorrect use of services or from client’s software bugs. In addition we give no assistance whose purpose is just learning except when this is part of the service itself. Products descriptions are available on websites: https://denali.pro, https://denali.business and https://tritema.ch .
 
 ## Servers maintenance and software updates
-
 The customer is aware that all services are based on technical equipment (servers and network devices) hosted at datacenters and software. All services need always updates and maintenance and during such events the servers may experience reboots or unreachability times due to operations in progress. Where it is possible (scheduled maintenance), the customer is advised from client’s area (network issues menu). Where, instead, it’s necessary to execute an urgent maintenance procedure, our technical staff will be required to go ahead fastest possible and without any wait. The customer is also aware that there are parts of services that do not depend directly on Denali, for example datacenter connectivity, broken hardware items etc, since different suppliers are normally involved in all the process. In case of any malfunction due to connected suppliers, Denali will do its best to coordinate the work of suppliers involved, in order to get them to resolve as soon as possible. Denali carries no liability in such events.
 
 ## Support, Tickets and phone
-
 Assistance is provided by customer support tickets inside client’s area. Technical department will give you support on any technical events regarding supplied services with the following important exclusions. As an example it is excluded from support and assistance: programming support, debug of customer’s code, code development, teaching, documentation, data entry and any matter and action which is possible to be executed by customer himself with control panels or personal areas. The support services, also, does not include any monitoring or picket service. The customer is the only liable of monitoring his services. Support tickets regarding past events are not accepted. Duplicated support tickets or tickets messed with email, phone calls (as an example) are not processed.
 
 ## VoIP and Virtualfax local numbers
-
-Regarding fax and voip services, all the numbers provided, are subject to regulations by local authorities. In case of changes in any regulations by local authorities, the client will be immediately notified to take necessary actions. Client is aware that failing to comply to regulations from local authority will lead to service suspension.
+Regarding fax and voip services, all the numbers provided, are subject to regulations by local authorities. In case of changes in any regulations by local authorities, the client will be immediately notified to take necessary actions. Client is aware that failing to comply to regulations from local authority will lead to service suspension. Please checkout regulator documentation inside the Denali's documents setup. Denali PRO is authorized VOIP communication provider in different countries including Switzerland and Italy.
 
 ## Reliability of storage
 Your files on Storage Boxes and Servers are safeguarded with a RAID configuration which can withstand several drive failures. Therefore, there is a relatively small chance of data being lost. Please note, however, that you are responsible for your data and there is no guarantee from Denali against potential loss of data. The data of storage boxes is not mirrored onto other servers.
 
 ## Agreement by purchasing
-
 The client purchasing a product or service at Denali’s website fully agrees to all the articles contained in this public document and fully approves all the terms into the files and links herein public available.
-Cancellation and refund policy
 
+### Cancellation and refund policy
 The renewals payments must be settled within due date as shown in invoice or notification. The payment failure, will result in service termination and all connected contents removal. The client is also liable of maintaining uptodate all his/her informations on Denali records (fiscal informations, company details, email, VAT, etc) and maintaining his/her services in good standing and fully paid. The payments of new services must be completed at order time. Therefore an order issued but never payd is considered void. Any order could be refunded only within eight calendar days starting from the payment date, at net value of expenses. Services are refundable only if still not used (for example: used voip traffic or sms traffic cannot be refunded). In case of malfunction evidenced by proof, only the amount paid by customer at net value of expenses will be elegible of rembursement. The request of any refund must be issued with a written notice by ticket system on client’s area, it’s excluded any other liability by Denali. The reactivation of an expired service generally may lead to an additional reactivation fee. Withdrawal from large VPSs, physical servers and licensed services must be with a notice 60days in advance. Valid withdrawal notices must be sent either by ticket or by  cancel facility inside the customer area. If not notified the withdrawal intention is considered lack of validity.
 
 ## Updates of terms of service
-
 Denali has the right to update from time to time its policies and terms of service. It belongs to client the matter to periodically check the contents of this public documents in order to see if there are some new updates. In case the client does not agree to any part of this document and linked resources, he/she must notify immediately to Denali and cancel the contract. Any running service at Denali therefore implies full acceptance of this document in any part and linked resources.
 Privacy and electronically supplied services
 
-All the data are managed pursuant Privacy Laws by Denali Limited, with principal place of business Msida MSD2270, Malta. All Internet services are supplied from Malta by the said company, according to the Laws of Republic of Malta. All the purchase process and services activation is totally automated and managed by informatics procedures. The supplied services are electronically supplied services according to the Laws of Malta. Privacy is managed according to EU GDPR directive . By using our services you accept privacy policy according to gdpr directive. By ordering products and services at Denali limited, the customer shall read carefully and agree with GDPR data protection agreement and all linked documents.
+All the data are managed pursuant Privacy Laws by Denali PRO SA, with principal place of business Roveredo 6535 Switzerland. All Internet services are supplied from Switzerland by the said company, according to the Laws of Swiss Confederation. All the purchase process and services activation is totally automated and managed by informatics procedures. The supplied services are electronically supplied services according to the Laws of Switzerland. Privacy is managed according to Swiss Rules and EU GDPR directive . By using our services you accept privacy policy according to gdpr directive. By ordering products and services at Denali limited, the customer shall read carefully and agree with GDPR data protection agreement and all linked documents.
 ICANN Domain names registration
 
  - Domain names are registered and managed though cooperation of Tritema SA and Ascio Inc.
@@ -54,8 +49,44 @@ ICANN Domain names registration
  - Registrants’ benefits and responsibilities
  - Expired recovery policy
 
-## ICANN Mandatory registration agreement terms in ICANN RAA 2013
+-----
+## Service Level Agreement (SLA)
 
+### Service Availability
+Denali PRO SA commits to maintaining a service availability (uptime) of 99.5% per calendar month for hosting, VPS, and network infrastructure services. Uptime is measured exclusively at the boundary of the Denali PRO SA network, excluding upstream provider networks and Customer-side connectivity.
+
+### Uptime Calculation
+The following shall not be counted as downtime:
+
+- Scheduled maintenance windows, communicated with at least 48 hours' prior notice when possible. 
+- Urgent unplanned maintenance. In some urgent cases Denali might need to intervene urgently due to a security issue or events affecting the infrastructure that arise suddently;
+- Force majeure events (natural disasters, unpreventable power outages, third-party acts, suppliers' issues);
+- Cyberattacks (DDoS, brute force, intrusions) targeting Customer or third-party infrastructure;
+- Outages caused by Customer's software, configurations, or content;
+- Service suspension due to breach of contract or violation of these Terms.
+
+9.3 Service Monitoring
+Services are monitored on a continuous basis. Customers may check real-time service availability at: https://status.denali.pro
+9.4 Service Credits
+In the event that the availability commitment in above section is not met, the Customer may request a service credit within 15 days of the end of the affected calendar month, according to the following schedule:
+
+![Uptime](assets/uptime.png)
+
+Credits are applied exclusively as account balance for Denali PRO SA services and are not redeemable for cash. The maximum credit issued shall not exceed 100% of the monthly fee for the affected service.
+
+### Limitation of Liability
+Service credits set forth in above section constitute the Customer's sole and exclusive remedy for any service interruption. Denali PRO SA shall not be liable for any indirect damages, data loss, loss of revenue, or consequential damages arising from service interruptions.
+
+### Services Excluded from SLA
+The following services are provided on a best-effort basis and are not subject to uptime guarantees:
+
+- Services in testing or beta phase;
+- Free or promotional services;
+- VoIP services with respect to call quality over third-party telephone networks (PSTN);
+- Access to the WHMCS, ispconfig or any other control customer portal.
+
+
+## ICANN Mandatory registration agreement terms in ICANN RAA 2013
  - 3.7.7.1 The Registered Name Holder shall provide to Registrar accurate and reliable contact details and correct and update them within seven (7) days of any change during the term of the Registered Name registration, including: the full name, postal address, e-mail address, voice telephone number, and fax number if available of the Registered Name Holder; name of authorized person for contact purposes in the case of an Registered Name Holder that is an organization, association, or corporation; and the data elements listed in Subsections 3.3.1.2, 3.3.1.7 and 3.3.1.8.
  - 3.7.7.2 A Registered Name Holder’s willful provision of inaccurate or unreliable information, its willful failure to update information provided to Registrar within seven (7) days of any change, or its failure to respond for over fifteen (15) days to inquiries by Registrar concerning the accuracy of contact details associated with the Registered Name Holder’s registration shall constitute a material breach of the Registered Name Holder-registrar contract and be a basis for suspension and/or cancellation of the Registered Name registration.
  - 3.7.7.3 Any Registered Name Holder that intends to license use of a domain name to a third party is nonetheless the Registered Name Holder of record and is responsible for providing its own full contact information and for providing and updating accurate technical and administrative contact information adequate to facilitate timely resolution of any problems that arise in connection with the Registered Name. A Registered Name Holder licensing use of a Registered Name according to this provision shall accept liability for harm caused by wrongful use of the Registered Name, unless it discloses the current contact information provided by the licensee and the identity of the licensee within seven (7) days to a party providing the Registered Name Holder reasonable evidence of actionable harm.

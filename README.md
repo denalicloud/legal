@@ -13,5 +13,6 @@
 
 ## Voip numbers allocations restrictions by country
 
-- [Restrictions](voip/README.md)
+- [Restrictions](https://doc.clickup.com/30356232/d/h/wycr8-6135/a2bc04bd7293300)
 
+Please note that restrictions and KYC needs are required by local regulator only.
