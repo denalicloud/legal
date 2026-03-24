@@ -8,7 +8,7 @@
 - [Terms of service](TOS.md)
 - [Backup policy](backup-policy.md)
 - [Renewable energy used](environment.md)
-- [Uptime policy](uptime.md)
+- [Uptime policy](TOS.md#service-level-agreement-sla)
 
 
 ## Voip numbers allocations restrictions by country

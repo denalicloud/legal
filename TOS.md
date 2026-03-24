@@ -49,7 +49,6 @@ ICANN Domain names registration
  - Registrants’ benefits and responsibilities
  - Expired recovery policy
 
------
 ## Service Level Agreement (SLA)
 
 ### Service Availability
