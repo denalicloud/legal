@@ -1,7 +1,6 @@
 # DENALI T.O.S.
 
 ## Contents and abuse
-
 DENALI Pro S.A. (Denali from now on) is an Internet Service Provider that manages a server network with principal business location in Switzerland. Denali word and logo are also registered trademarks of our group of companies. Denali, as hoster, doesn’t assume any responsibilities regarding the contents which have been hosted by clients in its servers. Such contents must be allowed by Law and must follow Denali policies as decribed below in this document. The service will be immediately suspended without any notice if any of the following content types should be found on our network: any content not allowed by Law or by our policy, offending contents, malware or viruses, trojans or any content that could be offending for other parties or in violation of trademarks or copyrights. More in specific the following behaviors are against our policy:
 
  - uploading of not allowed contents according to the Law;
@@ -29,6 +28,9 @@ Regarding fax and voip services, all the numbers provided, are subject to regula
 
 ## Reliability of storage
 Your files on Storage Boxes and Servers are safeguarded with a RAID configuration which can withstand several drive failures. Therefore, there is a relatively small chance of data being lost. Please note, however, that you are responsible for your data and there is no guarantee from Denali against potential loss of data. The data of storage boxes is not mirrored onto other servers.
+
+## Price
+The price may be adjusted without a direct email. The website pages and announcements pages are valid. Please check the out on https://denali.pro https://denali.business and https://tritema.ch
 
 ## Agreement by purchasing
 The client purchasing a product or service at Denali’s website fully agrees to all the articles contained in this public document and fully approves all the terms into the files and links herein public available.
