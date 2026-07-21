@@ -10,7 +10,7 @@
 - [Renewable energy used](environment.md)
 - [Uptime policy](TOS.md#service-level-agreement-sla)
 
-## Privacy e sovranità dei dati
+## Privacy and data sovereignty
 
 - [Privacy and data sovereignty commitment](privacy-data-sovereignty.md)
 
