@@ -151,6 +151,8 @@ In case of a malfunction evidenced by proof, only the amount paid by the Custome
 
 The reactivation of an expired service may incur an additional reactivation fee.
 
+**Plan changes.** Requests to move to a lower plan during an active billing period are handled as the activation of a new service with the resources of the requested plan. The existing service is terminated, its data is backed up and, on request, restored on the new service, and the new billing period starts from the activation date. No credit or refund is due for the unused portion of the previous service, in line with the refund conditions above.
+
 Withdrawal from large VPSs, physical servers, and licensed services requires **sixty (60) days' advance notice**. Valid withdrawal notices must be sent either by ticket or via the cancel facility in the customer area. Withdrawal intentions not formally communicated are considered void.
 
 ---
